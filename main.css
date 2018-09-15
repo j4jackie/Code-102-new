@@ -1,0 +1,21 @@
+body {
+    background-color: orange;
+}
+
+#title{
+    color:purple;
+}
+
+.hour{
+    color:indigo;
+}
+
+p {
+    font-size:36px;
+    text-align:center;
+}
+
+.hourTitle {
+    font-weight:bolder;
+    color:crimson;
+}
