@@ -63,6 +63,35 @@ if ((3 > (3-1)) && (aColor != "silver") && (aColor == "re"+"d"))
     console.log("did we make it?");
 }
 
+let speed = 50; // declare and initialize a speed variable
+
+if (speed < 30) {
+    console.log("no ticket");
+}
+
+else if (speed <= 40) {
+    console.log("50 dollar fine!");
+}
+
+else {
+    console.log("100 dollar fine!");
+}
+
+let welcome = prompt("Welcome to my page.");
+
+console.log(welcome);
+
+let con;
+con=confirm("Do you want to continue?");
+console.log (con);
+
+let al 
+
+al = alert("Have fun!");
+
+console.log (al);
+
+
 
 
 
